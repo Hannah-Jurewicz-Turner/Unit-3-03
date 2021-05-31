@@ -1,0 +1,24 @@
+.container {
+  border: 3px solid pink;
+  top:0;
+  margin-left: auto;
+  margin-right: auto;
+  position: sticky;
+  width: 50%
+}
+
+.header {
+  text-align: center;
+}
+
+.dog {
+  width: 25%;
+  display: block;
+  margin: auto;
+}
+
+.hedgehog {
+  width: 25%;
+  float: left;
+  padding: 3px;
+}
